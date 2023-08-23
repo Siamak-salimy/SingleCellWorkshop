@@ -1,7 +1,8 @@
 # SingleCellWorkshop
 Linux Part :</br>
 R part : </br>
-  Step 0 : Requiered Libraries :  library(Seurat)</br>
+  Step 0 : Requiered Libraries :</br>  
+                                  library(Seurat)</br>
                                   library(cli)</br>
                                   library(sctransform)</br>
                                   library(dplyr)</br>
