@@ -5,7 +5,7 @@ The linear Combination of cells.Base on PC1 and PC2 </br>
 ![03](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/ac92ad3b-b9a8-465d-90d7-c8917f042335)
 The Non-linear Combination of cells.Base on UMAP  </br>
 ![plot_zoom](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/d1a7fed8-b99d-4f3d-8415-e79936d434e0)
-
+The Non-linear Combination of cells.Base on UMAP1 & UMAP2  </br>
 
 
 
