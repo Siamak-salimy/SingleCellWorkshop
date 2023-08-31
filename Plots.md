@@ -11,6 +11,7 @@ The Non-linear Combination of cells.Base on UMAP  </br>
 ![plot_zoom](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/d1a7fed8-b99d-4f3d-8415-e79936d434e0)
 The Non-linear Combination of cells.Base on UMAP1 & UMAP2  </br>
 ![Rplot02](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/5cbfc5f7-88d5-4e83-a268-e1a021d3481c)
+![Rplot_5](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/4e288b32-c580-4794-844a-953b3bdc55c6)
 
 
 
