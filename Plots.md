@@ -16,5 +16,6 @@ The Non-linear Combination of cells.Base on UMAP1 & UMAP2  </br>
 The Ridge Plot . 
 ![Rplot_5](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/4e288b32-c580-4794-844a-953b3bdc55c6)
 
+![Picture1](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/92a15c15-5347-4faf-b8f0-60d4f6bed918)
 
 
