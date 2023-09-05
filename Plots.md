@@ -1,7 +1,9 @@
 ..
 ![01-violin](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/e81918f5-ddc6-4723-9920-facccbc74127)
 The Violin Plot to detemine the MT percent and Cell number cutoff . </br>
+
 ![a2](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/3fe0c294-c04d-4749-be95-541b19806c42)
+PC plots to select proper PC's
 
 ![a3](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/b5e052b7-c187-4d3b-9af5-dd5bb67e8f88)
 
