@@ -7,6 +7,7 @@ PC plots to select proper PC's</br>
 
 ![a3](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/b5e052b7-c187-4d3b-9af5-dd5bb67e8f88)</br>
 
+Elbow Plot ti identify Brakepoint . 
 ![02](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/8283054e-4512-49cc-81d3-318311593ab9)
 The linear Combination of cells.Base on PC1 and PC2 </br>
 ![03](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/ac92ad3b-b9a8-465d-90d7-c8917f042335)
