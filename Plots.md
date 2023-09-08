@@ -18,7 +18,7 @@ The Non-linear Combination of cells.Base on UMAP1 & UMAP2  </br>
 ![Rplot02](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/5cbfc5f7-88d5-4e83-a268-e1a021d3481c)</br>
 The Ridge Plot to determine the significant unique gene for each celltype . .  </br>
 ![Rplot_5](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/4e288b32-c580-4794-844a-953b3bdc55c6)
-
+Hitmap to identify expression </br>
 ![Picture1](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/92a15c15-5347-4faf-b8f0-60d4f6bed918)
 ![image](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/3ad24e7f-1b6b-4312-bca8-95412a1983cb)
 
