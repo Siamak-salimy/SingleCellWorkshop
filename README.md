@@ -2,6 +2,7 @@
 Linux Part :</br>
   Srr definition</br>
     Srr to Fastq file</br>
+    Fastq to Bam file</br>
 R part : </br>
   Step 0 : Requiered Libraries :</br>  
                                   library(Seurat)</br>
