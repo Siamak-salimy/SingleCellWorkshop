@@ -5,6 +5,7 @@ Linux Part :</br>
     Fastq to Bam file</br>
     Use Samtoolview to view Sam Files </br>
     Add CellID </br>
+    Add CellBarcode </br>
 R part : </br>
   Step 0 : Requiered Libraries :</br>  
                                   library(Seurat)</br>
