@@ -24,4 +24,5 @@ Hitmap to identify expression </br>
 ![image](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/3ad24e7f-1b6b-4312-bca8-95412a1983cb)
 Significant Genes
  </br>
-![f4890b44-ec77-485f-8390-e0a35958ec59](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/f47b42ff-b15f-45bc-b570-56fdcf07026f)
+![f4890b44-ec77-485f-8390-e0a35958ec59](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/f47b42ff-b15f-45bc-b570-56fdcf07026f) </br>
+![Scree-plot-of-eigenvalues-after-principal-component-analysis](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/2bd0728a-6ec9-43ff-958b-98a0f3209971)
