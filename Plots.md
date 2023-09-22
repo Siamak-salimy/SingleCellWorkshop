@@ -25,5 +25,5 @@ Hitmap to identify expression </br>
 Significant Genes
  </br>
 ![f4890b44-ec77-485f-8390-e0a35958ec59](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/f47b42ff-b15f-45bc-b570-56fdcf07026f) </br>
-![Scree-plot-of-eigenvalues-after-principal-component-analysis](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/2bd0728a-6ec9-43ff-958b-98a0f3209971)
+![Scree-plot-of-eigenvalues-after-principal-component-analysis](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/2bd0728a-6ec9-43ff-958b-98a0f3209971)</br>
 In multivariate statistics, a scree plot is a line plot of the eigenvalues of factors or principal components in an analysis.[1] The scree plot is used to determine the number of factors to retain in an exploratory factor analysis (FA) or principal components to keep in a principal component analysis (PCA). The procedure of finding statistically significant factors or components using a scree plot is also known as a scree test. Raymond B. Cattell introduced the scree plot in 1966.
