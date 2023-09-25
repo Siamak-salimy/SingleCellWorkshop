@@ -26,6 +26,7 @@ Temporal Data: Time-series single-cell analysis involves studying cells over a s
   Step 1 : Create Seurat Object </br>
   step 2 : Filtering Cell</br>
   step 3 : Normalized Data </br>
+  step 4 : Find Variable Features </br>
 
                                   
 
