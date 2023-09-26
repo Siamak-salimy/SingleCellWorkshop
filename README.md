@@ -27,6 +27,9 @@ Temporal Data: Time-series single-cell analysis involves studying cells over a s
   step 2 : Filtering Cell</br>
   step 3 : Normalized Data </br>
   step 4 : Find Variable Features </br>
+  step 5 : Scale Data </br>
+ 
+  
 
                                   
 
