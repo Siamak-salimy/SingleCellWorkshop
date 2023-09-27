@@ -30,6 +30,7 @@ Temporal Data: Time-series single-cell analysis involves studying cells over a s
   step 5 : Scale Data </br>
   step 6 : Linear Dimention Reduction  ( PCA ) </br>
   step 7 : Determine the Dimentiality - Jackstraw - Elbow Plot </br>
+  step 8 : Clustering - Find neighbors . </br>
   
 
                                   
