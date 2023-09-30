@@ -35,6 +35,7 @@ Temporal Data: Time-series single-cell analysis involves studying cells over a s
   step 10: Cell Markers : Find All markers  </br>
   step 11:Cluster Annotation </br>
   step 12:Cluster Correction </br>
+  step 13:Cell Cycling
 
                                   
 
