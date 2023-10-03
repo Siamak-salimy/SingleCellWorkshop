@@ -37,7 +37,7 @@ R part : </br>
   step 10: Cell Markers : Find All markers  </br>
   step 11:Cluster Annotation </br>
   step 12:Cluster Correction </br>
-  step 13:Cell Cycling
+  step 13:Cell Cycling</br>
   step 14:Count Matrix of each cell type . </br>
 
                                   
