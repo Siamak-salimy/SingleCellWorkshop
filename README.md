@@ -39,6 +39,7 @@ R part : </br>
   step 12:Cluster Correction </br>
   step 13:Cell Cycling</br>
   step 14:Count Matrix of each cell type . </br>
+  step 15:Merge countmatrix</br>
 
                                   
 
