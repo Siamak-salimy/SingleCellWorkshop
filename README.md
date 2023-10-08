@@ -6,6 +6,7 @@ Linux Part :</br>
    step 2 : SRA to Fastq </br>
    Step 3 : Add CB(Cell Barcode )  </br> 
    step 4 : Filter XQ</br> 
+   step 5 : Trim Adaptor  </br> 
    Srr definition</br>
     Srr to Fastq file</br>
     Fastq to Bam file</br>
