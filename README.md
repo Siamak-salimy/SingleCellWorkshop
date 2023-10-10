@@ -9,6 +9,7 @@ Linux Part :</br>
    step 5 : Trim Adaptor  </br> 
    step 6 : Trim Poly A Tail .</br> 
    step 7 : Bam to Fastq </br>
+   step 7 : Bam to Fastq </br>
    
    Srr definition</br>
     Srr to Fastq file</br>
