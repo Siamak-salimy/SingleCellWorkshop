@@ -10,7 +10,7 @@ Linux Part :</br>
    step 6 : Trim Poly A Tail .</br> 
    step 7 : Bam to Fastq </br>
    step 8 : Align Using any aligner , such as ( STAR ) </br>
-   step 7 : Bam to Fastq </br>
+   step 9 : Aligned Bam file ( Sorting ) </br>
    
    Srr definition</br>
     Srr to Fastq file</br>
