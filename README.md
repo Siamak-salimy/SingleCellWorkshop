@@ -9,7 +9,7 @@ Linux Part :</br>
    step 5 : Trim Adaptor  </br> 
    step 6 : Trim Poly A Tail .</br> 
    step 7 : Bam to Fastq </br>
-   step 8 : Align Using any aligner , such as ( STAR ) </br>
+   step 8 : Align Using any aligner , such as ( STAR ).َ a refrence genom like HGR38 must be available to map reads .  </br>
    step 9 : Aligned Bam file ( Sorting ) </br>
    
    Srr definition</br>
