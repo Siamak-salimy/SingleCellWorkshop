@@ -11,7 +11,7 @@ Linux Part :</br>
    step 7 : Bam to Fastq </br>
    step 8 : Align Using any aligner , such as ( STAR ).َ a refrence genom like HGR38 must be available to map reads .  </br>
    step 9 : Aligned Bam file ( Sorting ) </br>
-   
+   step 10:Sorting </br> 
    Srr definition</br>
     Srr to Fastq file</br>
     Fastq to Bam file</br>
