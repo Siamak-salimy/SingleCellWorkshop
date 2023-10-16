@@ -13,6 +13,7 @@ Linux Part :</br>
    step 9 : Aligned Bam file ( Sorting ) </br>
    step 10: Sorting </br> 
    step 11: Tag Bam file </br>
+   step 12: Add annotation /br>
    Srr definition</br>
     Srr to Fastq file</br>
     Fastq to Bam file</br>
