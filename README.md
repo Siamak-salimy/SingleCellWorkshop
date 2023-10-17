@@ -16,11 +16,7 @@ Linux Part :</br>
    step 12: Add annotation /br>
    step 13: Repair Bad Sub </br>
    Srr definition</br>
-    Srr to Fastq file</br>
-    Fastq to Bam file</br>
-    Use Samtoolview to view Sam Files </br>
-    Add CellID </br>
-    Add CellBarcode </br>
+    
 R part : </br>
   Step 0 : Requiered Libraries :</br>  
                                   library(Seurat)</br>
