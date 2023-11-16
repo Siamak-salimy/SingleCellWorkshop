@@ -45,6 +45,7 @@ R part : </br>
   step 13:Cell Cycling</br>
   step 14:Count Matrix of each cell type . </br>
   step 15:Merge countmatrix</br>
+  step 16:Prepare to run Analysis same as Bulk-Rna seq 
 
                                   
 
