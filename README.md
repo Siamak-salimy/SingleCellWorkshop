@@ -35,7 +35,7 @@ R part : </br>
   step 3 : Normalized Data </br>
   step 4 : Find Variable Features </br>
   step 5 : Scale Data </br>
-  step 6 : Linear Dimention Reduction  ( PCA ) </br>
+  step 6 : Linear Dimention Reduction . ( PCA ) </br>
   step 7 : Determine the Dimentiality - Jackstraw - Elbow Plot </br>
   step 8 : Clustering - Find neighbors . </br>
   step 9 : Nonlinear Dimension Reduction . tSNE,UMAP </br>
