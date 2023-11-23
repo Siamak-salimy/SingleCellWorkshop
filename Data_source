@@ -23,3 +23,39 @@ Here are some primary sources of single-cell data:
    - **Companies offering Single-Cell Technologies:** Platforms like 10x Genomics, Fluidigm, or other technology providers may have proprietary datasets available to users.
 Researchers often deposit their data in public repositories or specialized databases after publication to facilitate sharing and collaboration within the scientific community. 
 These repositories follow standard formats and metadata annotations, making it easier for researchers to access, analyze, and compare single-cell datasets across different studies and laboratories.
+
+Here are some specific websites and repositories where you can access single-cell data:
+
+1. **Gene Expression Omnibus (GEO)**:
+   - **Website:** [GEO](https://www.ncbi.nlm.nih.gov/geo/)
+   - **Description:** GEO is a public repository hosted by the National Center for Biotechnology Information (NCBI), housing a vast collection of high-throughput gene expression and molecular abundance data, including single-cell datasets.
+
+2. **Single Cell Expression Atlas**:
+   - **Website:** [Single Cell Expression Atlas](https://www.ebi.ac.uk/gxa/sc/home)
+   - **Description:** Part of the Expression Atlas at the European Bioinformatics Institute (EBI), providing access to single-cell gene expression datasets across various species and tissues.
+
+3. **ArrayExpress**:
+   - **Website:** [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/)
+   - **Description:** A repository for functional genomics data, including microarray and sequencing-based studies, hosting a collection of single-cell datasets.
+
+4. **Human Cell Atlas (HCA)**:
+   - **Website:** [Human Cell Atlas Data Portal](https://www.humancellatlas.org/data)
+   - **Description:** HCA aims to create a comprehensive reference map of all human cells, providing access to single-cell data across different tissues and organs.
+
+5. **Tabula Muris**:
+   - **Website:** [Tabula Muris](https://tabula-muris.ds.czbiohub.org/)
+   - **Description:** An openly available compendium of single-cell transcriptomic data across multiple mouse tissues and organs.
+
+6. **Cytobank**:
+   - **Website:** [Cytobank](https://www.cytobank.org/)
+   - **Description:** A platform for storing, analyzing, and sharing cytometry data, including single-cell proteomics and high-dimensional analysis.
+
+7. **ENCODE (Encyclopedia of DNA Elements)**:
+   - **Website:** [ENCODE](https://www.encodeproject.org/)
+   - **Description:** While not exclusively focused on single-cell data, ENCODE provides valuable multi-omics data, including single-cell ATAC-seq datasets.
+
+8. **10x Genomics Data Loupe**:
+   - **Website:** [10x Genomics Loupe Browser](https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser)
+   - **Description:** Provides access to 10x Genomics' datasets and visualization tools for single-cell RNA-seq and multi-omics analysis.
+
+These repositories and platforms offer diverse single-cell datasets across different species, tissues, and experimental conditions, allowing researchers to explore cellular heterogeneity and gene expression profiles at the individual cell level.
