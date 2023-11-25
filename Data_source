@@ -1,5 +1,5 @@
 Single-cell data sources refer to information obtained at the individual cell level, offering a detailed view of cellular heterogeneity within biological systems.
-Several techniques generate single-cell data, providing insights into cellular behavior, gene expression, protein levels, and other molecular characteristics.
+Several techniques generate single-cell data, providing insights into cellular behavior, gene expression, protein levels, and other molecular characteristics.</br>
 Here are some primary sources of single-cell data :</br>
 
 1. Single-Cell RNA Sequencing (scRNA-seq):
