@@ -6,7 +6,7 @@ Here are some primary sources of single-cell data :</br>
    - scRNA-seq Datasets: Generated from sequencing the transcriptome of individual cells, providing information about gene expression levels in each cell. </br>
         Public repositories like the Gene Expression Omnibus (GEO), Single Cell Portal, ArrayExpress, and the Single Cell Expression Atlas store such datasets.</br>
 2. Single-Cell Proteomics:
-   - Mass Cytometry (CyTOF) and Imaging Mass Cytometry (IMC): Techniques enabling high-dimensional protein analysis at the single-cell level, available in databases like Cytobank or the Human Protein Atlas.
+   - Mass Cytometry (CyTOF) and Imaging Mass Cytometry (IMC): Techniques enabling high-dimensional protein analysis at the single-cell level, available in databases like Cytobank or the Human Protein Atlas.</br>
 3. Single-Cell Epigenomics:
    - Single-Cell ATAC-seq (scATAC-seq): Provides information about chromatin accessibility at the single-cell level, revealing epigenetic states. 
       Datasets can be found in repositories like the Tabula Muris, ENCODE, or 10x Genomics.
