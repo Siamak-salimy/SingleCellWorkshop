@@ -12,7 +12,7 @@ Here are some primary sources of single-cell data :</br>
       Datasets can be found in repositories like the Tabula Muris, ENCODE, or 10x Genomics.
 4. Single-Cell Multi-omics:
    - Integrated Single-Cell Analysis: Datasets combining multiple omics types (RNA, DNA, protein, etc.) at the single-cell resolution. </br>
-     Repositories like the Human Cell Atlas or the Cancer Cell Map Initiative store multi-omics datasets.
+     Repositories like the Human Cell Atlas or the Cancer Cell Map Initiative store multi-omics datasets.</br>
 5. Single-Cell Imaging:
    - Fluorescence Microscopy and Imaging Techniques: Capture visual information at the single-cell level, often used in conjunction with other single-cell assays. 
        Databases specific to image-based single-cell studies might vary based on the research field.
