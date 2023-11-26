@@ -43,7 +43,7 @@ Here are some specific websites and repositories where you can access single-cel
    - Description: HCA aims to create a comprehensive reference map of all human cells, providing access to single-cell data across different tissues and organs.
 
 5. Tabula Muris:
-   - Website: [Tabula Muris](https://tabula-muris.ds.czbiohub.org/)
+   - Website: [Tabula Muris](https://tabula-muris.ds.czbiohub.org)
    - Description: An openly available compendium of single-cell transcriptomic data across multiple mouse tissues and organs.
 
 6. Cytobank:
@@ -62,4 +62,3 @@ These repositories and platforms offer diverse single-cell datasets across diffe
 allowing researchers to explore cellular heterogeneity and gene expression profiles at the individual cell level.
 
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
