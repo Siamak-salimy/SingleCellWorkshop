@@ -49,3 +49,4 @@ R part : </br>
 
                                   
 Dropseq VS 10X genomics ? In contrast to Drop-seq, where solid beads are used for RNA capture, 10X uses soft hydrogels containing oligos. These enable “single Poisson loading” leading to capture of >60% of input cells.
+ 10x single cell assays typically capture some freely floating transcripts during the droplet-based capture process, resulting in a low level of background RNA counts referred to as ambient RNA.
