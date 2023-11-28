@@ -48,4 +48,4 @@ R part : </br>
   step 16:Prepare to run Analysis same as Bulk-Rna seq 
 
                                   
-
+Dropseq VS 10X genomics ? In contrast to Drop-seq, where solid beads are used for RNA capture, 10X uses soft hydrogels containing oligos. These enable “single Poisson loading” leading to capture of >60% of input cells.
