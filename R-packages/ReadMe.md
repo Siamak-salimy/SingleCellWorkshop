@@ -3,9 +3,9 @@ Seurat v5
 
 We are excited to release Seurat v5! To install, please follow the instructions in our install page. This update brings the following new features and functionality:
 
-    Integrative multimodal analysis: The cellular transcriptome is just one aspect of cellular identity, and recent technologies enable routine profiling of chromatin accessibility, histone modifications, and protein levels from single cells. In Seurat v5, we introduce ‘bridge integration’, a statistical method to integrate experiments measuring different modalities (i.e. separate scRNA-seq and scATAC-seq datasets), using a separate multiomic dataset as a molecular ‘bridge’. For example, we demonstrate how to map scATAC-seq datasets onto scRNA-seq datasets, to assist users in interpreting and annotating data from new modalities.
+Integrative multimodal analysis: The cellular transcriptome is just one aspect of cellular identity, and recent technologies enable routine profiling of chromatin accessibility, histone modifications, and protein levels from single cells. In Seurat v5, we introduce ‘bridge integration’, a statistical method to integrate experiments measuring different modalities (i.e. separate scRNA-seq and scATAC-seq datasets), using a separate multiomic dataset as a molecular ‘bridge’. For example, we demonstrate how to map scATAC-seq datasets onto scRNA-seq datasets, to assist users in interpreting and annotating data from new modalities.
 
-    We recognize that while the goal of matching shared cell types across datasets may be important for many problems, users may also be concerned about which method to use, or that integration could result in a loss of biological resolution. In Seurat v5, we also introduce flexible and streamlined workflows for the integration of multiple scRNA-seq datasets. This makes it easier to explore the results of different integration methods, and to compare these results to a workflow that excludes integration steps.
+We recognize that while the goal of matching shared cell types across datasets may be important for many problems, users may also be concerned about which method to use, or that integration could result in a loss of biological resolution. In Seurat v5, we also introduce flexible and streamlined workflows for the integration of multiple scRNA-seq datasets. This makes it easier to explore the results of different integration methods, and to compare these results to a workflow that excludes integration steps.
         Paper: Dictionary learning for integrative, multimodal, and scalable single-cell analysis
         Vignette: Streamlined integration of scRNA-seq data
         Vignette: Cross-modality bridge integration
@@ -26,4 +26,4 @@ We are excited to release Seurat v5! To install, please follow the instructions 
 
     Backwards compatibility: While Seurat v5 introduces new functionality, we have ensured that the software is backwards-compatible with previous versions, so that users will continue to be able to re-run existing workflows. Previous versions of Seurat, such as Seurat v4, can also be installed following the instructions in our install page.
 
-Changes between v4 and v5 
+https://satijalab.org/seurat/#seurat-v5
