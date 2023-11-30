@@ -1,7 +1,8 @@
-
+#Quoted from the reference site of Seurat Package .
 Seurat v5
 
-We are excited to release Seurat v5! To install, please follow the instructions in our install page. This update brings the following new features and functionality:
+We are excited to release Seurat v5! To install, please follow the instructions in our install page. 
+This update brings the following new features and functionality:
 
 Integrative multimodal analysis: The cellular transcriptome is just one aspect of cellular identity, and recent technologies enable routine profiling of chromatin accessibility, histone modifications, and protein levels from single cells. In Seurat v5, we introduce ‘bridge integration’, a statistical method to integrate experiments measuring different modalities (i.e. separate scRNA-seq and scATAC-seq datasets), using a separate multiomic dataset as a molecular ‘bridge’. For example, we demonstrate how to map scATAC-seq datasets onto scRNA-seq datasets, to assist users in interpreting and annotating data from new modalities.
 
