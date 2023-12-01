@@ -22,7 +22,8 @@ Vignette: Mapping 1.5M cells from multiple studies to an Azimuth reference
 Vignette: Interacting with BPCell matrices in Seurat v5
 BPCells R Package: Scaling Single Cell Analysis to Millions of Cells
 
-Analysis of sequencing and imaging-based spatial datasets: Spatially resolved datasets are redefining our understanding of cellular interactions and the organization of human tissues. Both sequencing-based(i.e. Visium, SLIDE-seq, etc.), and imaging-based (MERFISH/Vizgen, Xenium, CosMX, etc.) technologies have unique advantages, and require tailored analytical methods and software infrastructure. In Seurat v5, we introduce flexible and diverse support for a wide variety of spatially resolved data types, and support for analytical techniqiues for scRNA-seq integration, deconvolution, and niche identification.
+Analysis of sequencing and imaging-based spatial datasets: Spatially resolved datasets are redefining our understanding of cellular interactions and the organization of human tissues. Both sequencing-based(i.e. Visium, SLIDE-seq, etc.), and imaging-based (MERFISH/Vizgen, Xenium, CosMX, etc.) technologies have unique advantages, and require tailored analytical methods and software infrastructure. </br>
+In Seurat v5, we introduce flexible and diverse support for a wide variety of spatially resolved data types, and support for analytical techniqiues for scRNA-seq integration, deconvolution, and niche identification.
         Vignette: Analysis of spatial datasets (Sequencing-based)
         Vignette: Analysis of spatial datasets (Imaging-based)
 
