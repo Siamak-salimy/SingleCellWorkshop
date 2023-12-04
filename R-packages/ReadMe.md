@@ -16,7 +16,7 @@ This makes it easier to explore the results of different integration methods, an
         Website: Azimuth-ATAC, reference-mapping for scATAC-seq datasets
 
 Flexible, interactive, and highly scalable analsyis: The size and scale of single-cell sequencing datasets is rapidly increasing, outpacing even Moore’s law. In Seurat v5, we introduce new infrastructure and methods to analyze, interpret, and explore exciting datasets spanning millions of cells, even if they cannot be fully loaded into memory. We introduce support for ‘sketch’-based analysis, where representative subsamples of a large dataset are stored in-memory to enable rapid and iterative analysis - while the full dataset remains accessible via on-disk storage.</br>
-We enable high-performance via the BPCells package, developed by Ben Parks in the Greenleaf Lab. The BPCells package enables high-performance analysis via innovative bit-packing compression techniques, optimized C++ code, and use of streamlined and lazy operations.
+We enable high-performance via the BPCells package, developed by Ben Parks in the Greenleaf Lab. The BPCells package enables high-performance analysis via innovative bit-packing compression techniques, optimized C++ code, and use of streamlined and lazy operations.</br>
 Vignette: Sketch-based clustering of 1.3M brain cells (10x Genomics)
 Vignette: Sketch-based integration of 1M healthy and diabetic PBMC (Parse Biosciences)
 Vignette: Mapping 1.5M cells from multiple studies to an Azimuth reference
