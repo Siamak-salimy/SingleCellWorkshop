@@ -51,3 +51,14 @@ R part : </br>
                                   
 Dropseq VS 10X genomics ?</br> In contrast to Drop-seq, where solid beads are used for RNA capture, 10X uses soft hydrogels containing oligos. These enable “single Poisson loading” leading to capture of >60% of input cells.
  10x single cell assays typically capture some freely floating transcripts during the droplet-based capture process, resulting in a low level of background RNA counts referred to as ambient RNA.
+ A single-cell workshop typically focuses on the study and analysis of single cells, aiming to explore their properties, functions, and behaviors. This workshop delves into cutting-edge techniques, technologies, and methodologies used to isolate, manipulate, and analyze individual cells, allowing researchers to gain deeper insights into cellular heterogeneity, molecular dynamics, and cellular responses.
+
+Throughout the workshop, participants may engage in hands-on sessions, discussions, and presentations covering various aspects of single-cell analysis, including but not limited to:
+
+Experimental Techniques: Exploring various experimental approaches used to isolate and characterize single cells, such as microfluidics, imaging, sequencing, and omics technologies.
+
+Data Analysis: Understanding computational tools and algorithms for interpreting and analyzing large-scale single-cell datasets, including methods for visualization, clustering, and identifying cellular subtypes.
+
+Applications: Exploring the wide-ranging applications of single-cell analysis in different fields, including biology, medicine, developmental biology, immunology, and oncology.
+
+Emerging Trends: Discussing the latest advancements, emerging technologies, and future directions in the field of single-cell analysis.
