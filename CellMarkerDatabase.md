@@ -2,8 +2,7 @@ CellMArker : http://xteam.xbio.top/   </br>
 
 Panglao DB : https://panglaodb.se/index.html</br>
 
-CellMArker : http://xteam.xbio.top/   </br>
-Azimuth : https://azimuth.hubmapconsortium.org/
+Azimuth : https://azimuth.hubmapconsortium.org/ </br>
 
 CellMarker  :http://bio-bigdata.hrbmu.edu.cn/CellMarker/
 
