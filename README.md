@@ -5,7 +5,7 @@ It helps identify active regulatory elements and can be used to infer cell ident
 Linux Part :</br>
    step 1 : Download SRA </br>
    step 2 : SRA to Fastq </br>
-   Step 3 : Add CB(Cell Barcode )  </br> 
+   Step 3 : Add CB(Cell Barcode ) and UMI </br> 
    step 4 : Filter XQ</br> 
    step 5 : Trim Adaptor. </br> 
    step 6 : Trim Poly A Tail .</br> 
