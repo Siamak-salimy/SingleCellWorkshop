@@ -38,7 +38,7 @@ R part : </br>
   step 5 : Scale Data </br>
   step 6 : Linear Dimention Reduction . ( PCA ) </br>
   step 7 : Determine the Dimentiality - Jackstraw - Elbow Plot </br>
-  step 8 : Clustering - Find neighbors . </br>
+  step 8 : Clustering - Find neighbors .KNN clustering !!!! </br>
   step 9 : Nonlinear Dimension Reduction . tSNE,UMAP </br>
   step 10: Cell Markers : Find All markers  </br>
   step 11:Cluster Annotation </br>
