@@ -19,7 +19,7 @@ Linux Part :</br>
    step 12: Add annotation /br>
    step 13: Repair Bad Sub </br>
 
-    #  <img alt="R" src="https://img.shields.io/badge/R-R--Programming-brightgreen" height="25px"/>
+ <img alt="R" src="https://img.shields.io/badge/R-R--Programming-brightgreen" height="25px"/>
 R part : </br>
   Step 0 : Requiered Libraries :</br>  
                                   library(Seurat)</br>
