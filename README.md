@@ -5,6 +5,8 @@ It helps identify active regulatory elements and can be used to infer cell ident
 ![image](https://github.com/Siamak-salimy/SingleCellWorkshop/assets/34867846/382e64d8-790c-4025-bef0-9b0923280007)
 
 Linux Part :</br>
+<img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="25px"/>
+
    step 1 : Download SRA </br>
    step 2 : SRA to Fastq </br>
    Step 3 : Add CB(Cell Barcode ) and UMI </br> 
