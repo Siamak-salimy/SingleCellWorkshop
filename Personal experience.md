@@ -4,4 +4,4 @@ As I recount this odyssey, the narrative unfolds, unveiling the profound insight
 1 : SRR VS Count matrix :</Br>
   In lieu of employing raw data, my approach centered on harnessing processed data sets and their corresponding count matrices. This strategic pivot allowed for a more refined analysis, enabling a comprehensive exploration of intricate biological pathways and cellular dynamics. ( Use Count matrix instead of Raw files 😎 ) </Br>
 2 : Try 10X . </Br>
-What is 10X ? 
+What is 10X ? 10x Genomics is a microfluidics-based method of single-cell RNA sequencing. The technique makes use of the Chromium system, a device that enables single-cell sequencing with their Next GEM technology.
