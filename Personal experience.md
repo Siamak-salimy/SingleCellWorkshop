@@ -6,4 +6,5 @@ As I recount this odyssey, the narrative unfolds, unveiling the profound insight
 2 : Try 10X . </Br>
   What is 10X ? 10x Genomics is a microfluidics-based method of single-cell RNA sequencing. The technique makes use of the Chromium system, a device that enables single-cell sequencing with their Next GEM technology.</Br>
 Read publications , Reanalyze their results and increase your XP . </Br>Whare ? How a goog question 😎 From Here : https://www.10xgenomics.com/
-3 :Read related articles. By reading the articles, you can find the data you need better.
+3 : Read related articles. By reading the articles, you can find the data you need better.</Br>
+4 : Use Ubunto instead of VMWare or windows.</Br>
