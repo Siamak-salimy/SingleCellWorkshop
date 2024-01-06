@@ -8,3 +8,4 @@ As I recount this odyssey, the narrative unfolds, unveiling the profound insight
 Read publications , Reanalyze their results and increase your XP . </Br>Whare ? How a goog question 😎 From Here : https://www.10xgenomics.com/
 3 : Read related articles. By reading the articles, you can find the data you need better.</Br>
 4 : Use Ubunto instead of VMWare or windows.</Br>
+5 : Use HGR38
