@@ -9,3 +9,4 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 3 : Read related articles. By reading the articles, you can find the data you need better.</Br>
 4 : Use Ubunto instead of VMWare or windows.</Br>
 5 : Use HGR38
+6 : Use Bulild-in Index file from STAR . 
