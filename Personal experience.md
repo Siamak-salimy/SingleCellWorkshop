@@ -10,3 +10,4 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 4 : Use Ubunto instead of VMWare or windows.</Br>
 5 : Use HGR38
 6 : Use Bulild-in Index file from STAR . 
+7: You can use Bash scripts to run commands ,but it is recommended to run them seperately . 
