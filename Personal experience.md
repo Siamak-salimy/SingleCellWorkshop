@@ -11,3 +11,4 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 5 : Use HGR38</Br>
 6 : Use Bulild-in Index file from STAR . </Br>
 7: You can use Bash scripts to run commands ,but it is recommended to run them seperately . </Br>
+8:At the end of Linux part , you have a count matrix , use it or try to find a pre-analysed count matrix  </Br>
