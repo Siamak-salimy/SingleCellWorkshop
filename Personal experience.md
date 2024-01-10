@@ -11,4 +11,5 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 5 : Use HGR38</Br>
 6 : Use Bulild-in Index file from STAR . </Br>
 7: You can use Bash scripts to run commands ,but it is recommended to run them seperately . </Br>
-8: Towards the conclusion of the Linux section, when you reach the count matrix stage, consider leveraging this data or seeking out an existing pre-analyzed count matrix for further exploration and analysis.  </Br>
+8: Towards the conclusion of the Linux section, when you reach the count matrix stage, consider leveraging this data or seeking out an existing pre-analyzed count matrix for further exploration and analysis.</Br>
+9: Read Article , Read Article , Read Article , Read Article , !!!! by this you will have an comprehensive  view to available Dataset .</Br>
