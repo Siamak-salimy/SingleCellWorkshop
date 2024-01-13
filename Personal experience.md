@@ -1,4 +1,4 @@
-This section delves into the nuanced tapestry of my personal encounters and professional journey while navigating the intricate realm of single-cell research.
+This section delves into the nuanced tapestry of my personal encounters and professional journey while navigating the intricate realm of single-cell research.</Br>
 Throughout my tenure, I've had the privilege of immersing myself in the intricate world of single-cell analysis, where every cell tells a unique story waiting to be deciphered. These shared experiences encapsulate the challenges, triumphs, and transformative moments encountered while probing the enigmatic intricacies of singular cellular entities. </Br>
 As I recount this odyssey, the narrative unfolds, unveiling the profound insights gained, the innovations witnessed, and the evolution of methodologies that have propelled the frontiers of single-cell exploration. Join me on this enlightening voyage through the microcosm of single cells, where each experience has woven an indelible tapestry of learning and discovery.</Br>
 1 : SRR VS Count matrix :</Br>
