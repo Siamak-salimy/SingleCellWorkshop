@@ -14,4 +14,4 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 8 : Towards the conclusion of the Linux section, when you reach the count matrix stage, consider leveraging this data or seeking out an existing pre-analyzed count matrix for further exploration and analysis.</Br>
 9 : Read Article , Read Article , Read Article , Read Article , !!!! by this you will have an comprehensive  view to available Dataset .</Br>
 10:Seurat is the main package in R section ! Try 4.3.0 Version </Br>
-11:Try To Understant the codes !
+11:Try To Understant the codes ! </Br>
