@@ -15,3 +15,4 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 9 : Read Article , Read Article , Read Article , Read Article , !!!! by this you will have an comprehensive  view to available Dataset .</Br>
 10:Seurat is the main package in R section ! Try 4.3.0 Version </Br>
 11:Try To Understand the codes ! </Br>
+12:Try to follow pipeline , seprate and manually , Using Autocodes or Autopackages , never help you  .
