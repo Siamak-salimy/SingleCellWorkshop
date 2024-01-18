@@ -16,4 +16,4 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 10:Seurat is the main package in R section ! Try 4.3.0 Version </Br>
 11:Try To Understand the codes ! </Br>
 12:Strive to adhere to the established pipeline rather than opting for manual separation. Relying on autocodes or autopackages may not prove beneficial in achieving your objectives.</Br>
-13:Use PCA and Umap !</Br>
+13:Use PCA and Umap !</Br> </Br>
