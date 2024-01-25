@@ -19,4 +19,4 @@ Read publications , Reanalyze their results and increase your XP . </Br>Whare ? 
 13:Use PCA and Umap !</Br>
 14:Using SRA and following count mapping is not recommended .  </Br>
 15:Plots Are so important .  </Br>
-16:Base on Plots Decide to witch cell number are suitable . </Br>
+16:Base on Plots Decide to witch cell number are suitable . 
