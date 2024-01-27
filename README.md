@@ -32,7 +32,7 @@ R part :
                                   library(SingleR)</br>
                                   library(celldex)</br>
                                   library(SingleCellExperiment)</br>
-  Import Data:
+  Import Data:</br>
   
 
   Read multiple Datatype ( 10x , etc ):  </br>
@@ -67,4 +67,4 @@ Data Analysis: Understanding computational tools and algorithms for interpreting
 
 Applications: Exploring the wide-ranging applications of single-cell analysis in different fields, including biology, medicine, developmental biology, immunology, and oncology.
 
-Emerging Trends: Discussing the latest advancements, emerging technologies, and future directions in the field of single-cell analysis.
+Emerging Trends: Discussing the latest advancements, emerging technologies, and future directions in the field of single-cell analysis. </br>
