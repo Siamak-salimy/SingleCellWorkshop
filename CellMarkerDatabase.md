@@ -4,7 +4,8 @@ There are several cell type databases available for researchers to access and ex
 
 2. Human Cell Atlas: This is an international collaborative project that aims to create a comprehensive reference map of all human cells, capturing gene expression profiles, epigenetic landscapes, and cellular phenotypes.
 
-3. Allen Cell Types Database: This database offers a systematic and comprehensive characterization of the diversity of cell types in the mouse primary visual cortex.
+3. Allen Cell Types Database: This database offers a systematic and comprehensive characterization of the diversity of cell types in the mouse primary visual cortex.</br>
+https://celltypes.brain-map.org/</br>
 
 4. Immunological Genome Project (ImmGen): ImmGen provides gene expression data for various immune cells to help researchers better understand the molecular mechanisms underlying immune system function.
 
