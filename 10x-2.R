@@ -96,8 +96,6 @@ View(Ref)
 srobj
 View(predLabs$scores)
 
-
-
 ###############
 GetAssayData(subset(srobj,idents ="Endothelial_cells"),"counts")
 
