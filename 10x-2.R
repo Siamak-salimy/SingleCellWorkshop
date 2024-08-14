@@ -12,7 +12,6 @@ countmat=Read10X("E:/workshop/GSM6329644_DMSO/" )
 srobj  = CreateSeuratObject(countmat, min.cells = 3,min.features = 200,project = "10x" ) 
 srobj[["MTpercent"]] =PercentageFeatureSet(srobj,pattern = "^MT-" )
 #srobj=SCTransform(srobj,vars.to.regress = "MTpercent")
-
 VlnPlot(srobj , features = c("nFeature_RNA" ,"MTpercent" ,"nCount_RNA"))
 srobj=subset(srobj,subset = nFeature_RNA > 200 & nFeature_RNA<9000 & MTpercent <25)
 dim(srobj) #23172  8575
@@ -55,8 +54,6 @@ View(markers)
 #dev.off()
 
 #####################
-
-
 
 #####################
 ClustersID = 0:8
